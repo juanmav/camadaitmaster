@@ -1,0 +1,22 @@
+{
+  "name": "clase3",
+  "version": "1.0.0",
+  "description": "clase 3 en itmaster",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "react",
+    "array",
+    "node"
+  ],
+  "author": "clase itmaster martes y jueves",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "lodash": "^4.17.10",
+    "node-fetch": "^2.2.0"
+  }
+}
